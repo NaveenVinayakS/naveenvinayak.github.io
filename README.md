@@ -9,7 +9,7 @@
 <span style="color:green; font-weight:bold;">Goal: </span>\
 The Aim to develop a model that identifies all Key information extraction on medical documents and identity patient name for extracting all information about patient from database.
 
-<span style="color:green; font-weight:bold;">Roles & Responsibilities: </span>\
+<span style="color:green; font-weight:bold;">Roles & Responsibilities: </span> \
 -	Analyzed the project requirement.
 
 - bing impact project 2!
