@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Cloud(AWS, GCP), Machine Learning, Deep Learning, Computer Vision(CNN), NLP, MLOps(MLflow, DVC,Git,bitbucket,circle ci), Docker
 
 ### Work History
-#### Senior Data Scientist @ SecureKloud Technologies (_March 2022 - Present_)
+#### <b>Senior Data Scientist @ SecureKloud Technologies (_Mar 2022 - Present_)</b>
 <b>Entity Extraction</b> \
 <b>Natural Language Processing</b> \
 <b>Goal:</b> \
