@@ -10,3 +10,30 @@ JR Data Scientist @ Gavs Technology
 
 ### Projcts
 Facial Analtics
+
+### Projcts
+Facial Analtics
+
+### Projcts
+Facial Analtics
+
+### Projcts
+Facial Analtics
+
+### Projcts
+Facial Analtics
+
+### Projcts
+Facial Analtics
+
+### Projcts
+Facial Analtics
+
+### Projcts
+Facial Analtics
+
+### Projcts
+Facial Analtics
+
+### Projcts
+Facial Analtics
