@@ -35,7 +35,7 @@ Developed a cutting-edge Automatic PHI (Protected Health Information) form filli
 - <span style="color:black; font-weight:bold;">Cost Savings:</span> The project resulted in significant cost savings by reducing the administrative workload of doctors, enabling them to concentrate on patient care.
 
 -	<span style="color:black; font-weight:bold;">Scalability:</span> Designed the system to effortlessly scale as the volume of doctor-patient calls increased, ensuring that the time and cost savings continued to grow.
-
+<hr style="border: 1px solid #d3d3d3;">
 
 #### <b>Data Scientist @ Renault Nissan (_Nov 2020 - Feb 2021_)</b>
 <span style="color:green; font-weight:bold;">Wafer Sensor/Semiconductor Fault Detection. </span>\
