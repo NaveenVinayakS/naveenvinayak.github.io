@@ -12,7 +12,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://naveenvinayak.medium.com/">* Medium Profile</a>
   <br>
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 show_footer_attribution: false
 github:
