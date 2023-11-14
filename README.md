@@ -30,16 +30,43 @@ Developed a cutting-edge Automatic PHI (Protected Health Information) form filli
 
 -	<span style="color:black; font-weight:bold;">Natural Language Processing:</span> Developed and fine-tuned the NLP component of the system, ensuring it accurately understood and processed patient responses.
 
--	<span style="color:black; font-weight:bold;">Integration:</span> Seamlessly integrated the system into the existing doctor-patient communication workflow.
-
 - <span style="color:black; font-weight:bold;">Time Efficiency:</span> With the automatic PHI form filling system in place, doctors no longer needed to transcribe patient responses or manually input data, saving a substantial amount of time during and after patient calls.
 
 - <span style="color:black; font-weight:bold;">Cost Savings:</span> The project resulted in significant cost savings by reducing the administrative workload of doctors, enabling them to concentrate on patient care.
 
 -	<span style="color:black; font-weight:bold;">Scalability:</span> Designed the system to effortlessly scale as the volume of doctor-patient calls increased, ensuring that the time and cost savings continued to grow.
 
-  
-- bing impact project 2!
+
+#### <b>Data Scientist @ Renault Nissan (_Nov 2020 - Feb 2021_)</b>
+<span style="color:green; font-weight:bold;">Wafer Sensor/Semiconductor Fault Detection. </span>\
+<span style="color:green; font-weight:bold;">Machine Learning  </span>\
+<span style="color:green; font-weight:bold;">Goal: </span>\
+The Aim to develop a framework for semiconductor faults detection and classification (FDC) to monitor and analyze wafer fabrication profile data from many related process variables to Identify the cause of the faults and thus helps reduce abnormal yield loss.
+
+<span style="color:green; font-weight:bold;">Roles & Responsibilities: </span>
+-	Analyze the stakeholder requirements,Performed <span style="color:black; font-weight:bold;">Feature Engineering</span> on data having <span style="color:black; font-weight:bold;">592 columns</span>  using Python libraries like Pandas, Numpy, Matplotlib.
+
+-	Segmented data by creating Clusters using <span style="color:black; font-weight:bold;">K-Means</span>.
+
+- Built and trained a model using <span style="color:black; font-weight:bold;">Random Forest Classification</span> and <span style="color:black; font-weight:bold;">XGBoost Classification</span>.
+
+- Maintained the code changes in <span style="color:black; font-weight:bold;">Bitbucket</span> and Deployed using <span style="color:black; font-weight:bold;">MLOPS (DVC and MLFlow)</span> for model mon and utilized - <span style="color:black; font-weight:bold;">Circleci</span> for performing cicd pipeline and deployed in - <span style="color:black; font-weight:bold;">AWS EC2</span>.
+
+
+#### <b>JR. Data Scientist @ Renault Nissan (_Feb 2020 - Nov 2020_)</b>
+<span style="color:green; font-weight:bold;">shredder Machine Hand Detection. </span>\
+<span style="color:green; font-weight:bold;">Goal: </span>\
+The Main Goal of the project is to detect hand of a person before it gets chopped by the Shredder Machine in WAREHOUSE. If the hand crosses the ALERT line an ALERT sound must be given, and if the hand crosses the SAFETY line, the shredder machine must be made shut down.
+
+<span style="color:green; font-weight:bold;">Roles & Responsibilities: </span>
+-	Analyze the stakeholder requirements,	Performed <span style="color:black; font-weight:bold;">Data Collection</span> on different <span style="color:black; font-weight:bold;">lighting Conditions</span> and annotated 4000+ images using LableImg.
+
+-	Used <span style="color:black; font-weight:bold;">SSD</span> with <span style="color:black; font-weight:bold;">Mobilenet </span>for hand detection
+
+- <span style="color:black; font-weight:bold;">Raspberry pi</span> Micro Controller is used to Shut the Machine if the object crosses the Safety Line.
+
+- On Premises setup was designed to Deploy the Project.
+
 
 ### Projcts
 Facial Analtics
