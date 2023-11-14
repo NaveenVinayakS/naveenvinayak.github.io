@@ -17,7 +17,7 @@ The Aim to develop a model that identifies all Key information extraction on med
 -	<span style="color:black; font-weight:bold;">Scalability:</span> Designed the chatbot to easily scale as the user base grew, ensuring that it continued to save time and money as the website's popularity increased
 
 - <span style="color:black; font-weight:bold;">Measurable Impact:</span> The project's implementation had a measurable impact on reducing support response times and operational costs, ultimately increasing user satisfaction and engagement.
-
+<hr style="border: 1px solid #d3d3d3;">
 
 #### <b>Senior Data Scientist @ SecureKloud Technologies (_Mar 2022 - Present_)</b>
 <span style="color:green; font-weight:bold;">Automatic PHI Form Filling. </span>\
@@ -51,7 +51,7 @@ The Aim to develop a framework for semiconductor faults detection and classifica
 - Built and trained a model using <span style="color:black; font-weight:bold;">Random Forest Classification</span> and <span style="color:black; font-weight:bold;">XGBoost Classification</span>.
 
 - Maintained the code changes in <span style="color:black; font-weight:bold;">Bitbucket</span> and Deployed using <span style="color:black; font-weight:bold;">MLOPS (DVC and MLFlow)</span> for model mon and utilized - <span style="color:black; font-weight:bold;">Circleci</span> for performing cicd pipeline and deployed in - <span style="color:black; font-weight:bold;">AWS EC2</span>.
-
+<hr style="border: 1px solid #d3d3d3;">
 
 #### <b>JR. Data Scientist @ Renault Nissan (_Feb 2020 - Nov 2020_)</b>
 <span style="color:green; font-weight:bold;">shredder Machine Hand Detection. </span>\
@@ -66,6 +66,7 @@ The Main Goal of the project is to detect hand of a person before it gets choppe
 - <span style="color:black; font-weight:bold;">Raspberry pi</span> Micro Controller is used to Shut the Machine if the object crosses the Safety Line.
 
 - On Premises setup was designed to Deploy the Project.
+<hr style="border: 1px solid #d3d3d3;">
 
 
 ### Projcts
