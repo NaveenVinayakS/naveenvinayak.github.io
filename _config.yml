@@ -5,8 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Data Scientist with 4+ years of commercial experience in analytics,
   <br><br>
-  <a href="https://www.linkedin.com/in/naveen-vinayak-s">View my LinkedIn Profile</a> 
-  <a href="https://www.hackerrank.com/profile/naveenvinayak_21">View my HackerRank Profile</a>
+  <a href="https://www.linkedin.com/in/naveen-vinayak-s">View my LinkedIn Profile</a> \
+  <a href="https://www.hackerrank.com/profile/naveenvinayak_21">View my HackerRank Profile</a>\
   <a href="https://naveenvinayak.medium.com/">View my HackerRank Profile</a>
 
 theme: jekyll-theme-minimal
