@@ -5,11 +5,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Data Scientist with 4+ years of commercial experience in analytics,
   <br><br>
-  <a href="https://www.linkedin.com/in/naveen-vinayak-s">View my LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/naveen-vinayak-s">* LinkedIn Profile</a> 
   <br><br>
-  <a href="https://www.hackerrank.com/profile/naveenvinayak_21">View my HackerRank Profile</a>
+  <a href="https://www.hackerrank.com/profile/naveenvinayak_21">* HackerRank Profile</a>
   <br><br>
-  <a href="https://naveenvinayak.medium.com/">View my Medium Profile</a>
+  <a href="https://naveenvinayak.medium.com/">* Medium Profile</a>
   <br>
   
 theme: jekyll-theme-minimal
@@ -17,4 +17,4 @@ google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 show_footer_attribution: false
 github:
   is_project_page: false
-  is_user_page: true
+  #is_user_page: true # View My GitHub Profile
