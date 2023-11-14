@@ -17,5 +17,6 @@ google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 show_footer_attribution: false
 github:
   is_project_page: false
+  is_user_page: true
 colors:
   crimson: '#900C3F'
